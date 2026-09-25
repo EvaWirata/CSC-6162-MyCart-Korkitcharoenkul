@@ -1,0 +1,24 @@
+# Proposal Summary
+
+## Product
+MY CART is an online shopping cart management system.
+
+Team shown in the proposal:
+- JediWarriors LLC
+- Concordia University Chicago
+- Wirata Korkitcharoenkul
+- Project Manager: Mishree Minalkumar Patel
+- Scrum Master: DR.G
+
+## Problem
+Users need too much time to compare products, prices, features, and reviews before making a decision.
+
+## Solution
+CART uses a rule-based AI Advisor to help users understand and compare products based on their needs.
+
+Example:
+- User: I want a hard drive under $100
+- Advisor: WD 2TB External Hard Drive
+- Match: 80%
+- Reasons: matched "drive", price is under $100, suitable for backup and extra files
+- Help me choose compares closest match and lowest price
