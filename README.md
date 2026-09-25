@@ -1,1 +1,1 @@
-# CSC-6162-Capstone-in-CS-Korkitcharoenkul
+# CSC-6162-MyCart-Korkitcharoenkul
