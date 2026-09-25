@@ -74,10 +74,10 @@ Later sprints:
 Sprint 0 made the project smaller and clearer. The important decision was not to build a giant shopping marketplace. The value of MY CART is helping a shopper understand why a product fits a budget and a need.
 
 ### YouTube link(s)
-Replace with the published Sprint 0 video URL.
+https://youtu.be/O4ywSMkyOYw
 
 ### LinkedIn post link(s)
-Replace with the published Sprint 0 LinkedIn post URL.
+https://www.linkedin.com/posts/ava-korkitcharoenkul_my-cart-online-shopping-cart-management-activity-7509271996791332864-Ovg0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzMcIkBRJwBv_on0r16IR0cAYkpfjDceuo
 
 ### References or resources used
 - MY CART proposal slides
